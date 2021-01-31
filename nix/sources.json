@@ -1,0 +1,14 @@
+{
+    "nixpkgs": {
+        "branch": "master",
+        "description": "DEPRECATED! This is an obsolete, read-only mirror of the NixOS/nixpkgs repository.",
+        "homepage": "https://github.com/NixOS/nixpkgs",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "fb3970ef7d144525dfcd1c39c0d0d122d248b185",
+        "sha256": "0lsdvgg6q8pd3h7lak64r92ys0d97lh2k9mgp5ilx2i904qh5miv",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/fb3970ef7d144525dfcd1c39c0d0d122d248b185.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
